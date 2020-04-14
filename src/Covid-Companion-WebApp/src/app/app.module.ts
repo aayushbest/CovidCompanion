@@ -20,6 +20,7 @@ import { LocationsComponent } from './patient/locations/locations.component';
 import { FallbackComponent } from './fallback/fallback.component';
 import { HeaderComponent } from './common/header/header.component';
 import { DoctorRegistrationDialogComponent } from './doctor/doctor-registration-dialog/doctor-registration-dialog.component';
+import { FaqComponent } from './faq/faq.component';
 
 
 
@@ -36,6 +37,7 @@ import { DoctorRegistrationDialogComponent } from './doctor/doctor-registration-
     FallbackComponent,
     HeaderComponent,
     DoctorRegistrationDialogComponent,
+    FaqComponent,
   ],
   imports: [
     BrowserModule,
